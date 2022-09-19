@@ -1,5 +1,5 @@
 public class SampleCalc {
-    int sum;
+   int sum;
 	
    public void plus(int x, int y) {
       sum = x + y;
