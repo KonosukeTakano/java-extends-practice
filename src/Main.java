@@ -5,7 +5,7 @@ public class Main extends SampleCalc{
       System.out.println("sumの計算結果: " + sum);
     }
     
-	public static void main(String args[]) {
+    public static void main(String args[]) {
       int a = 40, b = 50;
       Main sample = new Main();
       sample.plus(a, b);
